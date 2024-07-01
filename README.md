@@ -1,2 +1,2 @@
 # bash-implementations
-Re-creating popular commands in bash
+Re-creating popular shell commands in bash
